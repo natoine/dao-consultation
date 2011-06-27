@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>fr.natoine</groupId>
   <artifactId>dao-consultation</artifactId>
+  <name>fr.natoine.dao-consultation</name>
   <version>1.0.0</version>
   <packaging>jar</packaging>
   <build>
